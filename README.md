@@ -1,2 +1,2 @@
-# omikuji
-WebCamp選考課題
+# WebCamp選考課題
+omikuji
